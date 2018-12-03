@@ -2,7 +2,7 @@
 https://docs.google.com/forms/d/1b8tymxNydEIKLTrqzZ3rsUIM75eZUrD-Ejkpi5DVKqw/edit
 
 
-
+<code>
 import tensorflow as tf
 
 x_data = [1]
@@ -35,3 +35,4 @@ plt.show();
 
 #----- 테스트/예측
 print(sess.run(w * [3]))
+</code>
