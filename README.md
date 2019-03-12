@@ -10,13 +10,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKbwmUAPgPGzhO2RY-sE48cyY1IDJzusf8fD0d
 
 캐글 홈페이지를 방문하여 Iris 검색, 이때 나오는 https://www.kaggle.com/uciml/iris 에서 아래 커널(kernels)을 찾아 선택 후 학습
 
-##데이터 놀이1 (3월 19일까지)
+## 데이터 놀이1 (3월 19일까지)
 https://www.kaggle.com/ash316/ml-from-scratch-with-iris 
 
-##데이터 놀이2 (3월 26일까지)
+## 데이터 놀이2 (3월 26일까지)
 https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow
 
-##데이터 놀이3 (4월 2일까지)
+## 데이터 놀이3 (4월 2일까지)
 https://www.kaggle.com/lavajiit/deep-learning-iris-dataset-keras
 
 
