@@ -3,6 +3,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdpNqMkiQLPf9_uGq7Jel2kxINxL-RNEGO9lHIx
 
 # 캐글 튜토리얼 참가신청
 3월 22일 첨단과학단지(ICT융합창업허브 2층) 
+
 https://docs.google.com/forms/d/e/1FAIpQLSdKbwmUAPgPGzhO2RY-sE48cyY1IDJzusf8fD0dkfRi4DE8Sg/viewform
 
 # 캐글(kaggle.com) 타이타닉 데이터 과학
