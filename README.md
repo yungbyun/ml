@@ -20,3 +20,5 @@ https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow
 https://www.kaggle.com/lavajiit/deep-learning-iris-dataset-keras
 
 
+# 제2회 캐글코리아 경진대회 참가
+https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr
