@@ -13,10 +13,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKbwmUAPgPGzhO2RY-sE48cyY1IDJzusf8fD0d
 ## 데이터 놀이1 (3월 19일까지)
 https://www.kaggle.com/ash316/ml-from-scratch-with-iris 
 
-## 데이터 놀이2 (3월 26일까지)
+## 데이터 놀이2 (3월 22일까지)
 https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow
 
-## 데이터 놀이3 (4월 2일까지)
+## 데이터 놀이3 (3월 26일까지)
 https://www.kaggle.com/lavajiit/deep-learning-iris-dataset-keras
 
 
