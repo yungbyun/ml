@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=nttlAfVQT6w
 
 
 # 가장 간단한 코드(케라스)
-'''python
+```csharp
 from keras.models import Sequential
 from keras.layers import Dense
 
@@ -56,5 +56,5 @@ gildong.fit(x_data,y_data,epochs =200,batch_size = 32)
 
 answer = gildong.predict(x_data)
 print('Predicted:', answer)
-'''
+```
 
