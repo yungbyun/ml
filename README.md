@@ -35,3 +35,24 @@ https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr
 
 # 우리는 왜 대학에 가는가? (동영상)
 https://www.youtube.com/watch?v=nttlAfVQT6w
+
+
+from keras.models import Sequential
+from keras.layers import Dense
+
+x_data = [1]
+y_data = [1]
+
+gildong = Sequential()
+
+l = Dense(1, activation='linear', input_dim=1)
+gildong.add(l)
+
+gildong.compile(optimizer='rmsprop', loss='mean_squared_error', metrics=['accuracy'])
+
+gildong.fit(x_data,y_data,epochs =200,batch_size = 32)
+
+answer = gildong.predict(x_data)
+print('Predicted:', answer)
+
+
