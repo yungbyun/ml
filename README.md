@@ -37,6 +37,7 @@ https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr
 https://www.youtube.com/watch?v=nttlAfVQT6w
 
 
+# 가장 간단한 코드(케라스)
 from keras.models import Sequential
 from keras.layers import Dense
 
