@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=nttlAfVQT6w
 
 
 # 가장 간단한 코드(케라스)
-'''
+'''python
 from keras.models import Sequential
 from keras.layers import Dense
 
