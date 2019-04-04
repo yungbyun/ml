@@ -52,7 +52,7 @@ gildong.add(l)
 
 gildong.compile(optimizer='rmsprop', loss='mean_squared_error', metrics=['accuracy'])
 
-gildong.fit(x_data,y_data,epochs =200,batch_size = 32)
+gildong.fit(x_data, y_data, epochs = 200)
 
 answer = gildong.predict(x_data)
 print('Predicted:', answer)
