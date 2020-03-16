@@ -1,6 +1,3 @@
-# 매일 설문 (강의 시작 바로 전에)
-https://docs.google.com/forms/d/e/1FAIpQLSdpNqMkiQLPf9_uGq7Jel2kxINxL-RNEGO9lHIxZlTXSCSxcA/viewform?usp=pp_url
-
 # 개인별 캐글 발표내용(*)
 https://docs.google.com/spreadsheets/d/1vYmuk1hSTZ9j_y1AZEtA4EcAzU6ysljLmdXWZv_4xgI/edit?usp=sharing
 
