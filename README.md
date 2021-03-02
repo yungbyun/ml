@@ -1,17 +1,17 @@
 # 온라인 강의실(Slack)
-https://join.slack.com/t/w1614659986-7xj229671/shared_invite/zt-n3cxmu37-fftbMTur7t31AX724AA99g
+* https://join.slack.com/t/w1614659986-7xj229671/shared_invite/zt-n3cxmu37-fftbMTur7t31AX724AA99g
 
 # 캐글(kaggle.com) 가입 및 둘러보기
-캐글 홈페이지를 방문하여 Iris 검색, 이때 나오는 https://www.kaggle.com/uciml/iris 에서 다음 커널(kernels)을 찾아 선택 후 학습
+* 캐글 홈페이지를 방문하여 Iris 검색, 이때 나오는 https://www.kaggle.com/uciml/iris 에서 다음 커널(kernels)을 찾아 선택 후 학습
 
 ## 데이터 놀이1 (3월 19일까지)
-https://www.kaggle.com/ash316/ml-from-scratch-with-iris 
+* https://www.kaggle.com/ash316/ml-from-scratch-with-iris 
 
 ## 데이터 놀이2 (3월 22일까지)
-https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow
+* https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow
 
 ## 데이터 놀이3 (3월 26일까지)
-https://www.kaggle.com/lavajiit/deep-learning-iris-dataset-keras
+* https://www.kaggle.com/lavajiit/deep-learning-iris-dataset-keras
 
 # 가장 간단한 코드(케라스)
 ```csharp
