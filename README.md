@@ -1,7 +1,8 @@
 # 온라인 강의실(Slack)
 > * https://join.slack.com/t/w1614659986-7xj229671/shared_invite/zt-n3cxmu37-fftbMTur7t31AX724AA99g
 
-# 캐글(kaggle.com) 가입 및 둘러보기 (Slack 01주차_2 채널 참고)
+# 캐글(kaggle.com)
+> * 가입 및 둘러보기 (Slack 01주차_2 채널 참고)
 
 # 캐글 코드 다운받아 실행해보기
 > * 캐글 홈페이지를 방문하여 Iris 검색, 이때 나오는 https://www.kaggle.com/uciml/iris 에서 다음 코드를 찾아 다운받은 후(Copy and Edit) 실행해보자!
