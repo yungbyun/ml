@@ -5,7 +5,7 @@
 > * 가입 및 둘러보기 (Slack 01주차_2 채널 참고)
 
 # 캐글 코드 다운받아 실행해보기
-> * 캐글 홈페이지를 방문하여 Iris 검색, 이때 나오는 https://www.kaggle.com/uciml/iris 에서 다음 코드를 찾아 다운받은 후(Copy and Edit) 실행해보자!
+> * 캐글 홈페이지를 방문하여 Iris 검색해보자. 그리고 아래의 검색되는 코드를 다운받은 후(Copy and Edit) 실행해보자!
 > ## 데이터 놀이1 (3월 16일까지)
 > * https://www.kaggle.com/ash316/ml-from-scratch-with-iris 
 > ## 데이터 놀이2 (3월 23일까지)
