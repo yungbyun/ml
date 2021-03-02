@@ -3,11 +3,11 @@
 
 # 캐글(kaggle.com) 가입 및 둘러보기
 > * 캐글 홈페이지를 방문하여 Iris 검색, 이때 나오는 https://www.kaggle.com/uciml/iris 에서 다음 코드를 찾아 다운받은 후(Copy and Edit) 실행해보자!
-> ## 데이터 놀이1 (3월 19일까지)
+> ## 데이터 놀이1 (3월 16일까지)
 > * https://www.kaggle.com/ash316/ml-from-scratch-with-iris 
-> ## 데이터 놀이2 (3월 22일까지)
+> ## 데이터 놀이2 (3월 23일까지)
 > * https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow
-> ## 데이터 놀이3 (3월 26일까지)
+> ## 데이터 놀이3 (3월 30일까지)
 > * https://www.kaggle.com/lavajiit/deep-learning-iris-dataset-keras
 
 # 가장 간단한 코드(케라스)
