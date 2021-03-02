@@ -1,3 +1,6 @@
+# 온라인 강의실(Slack)
+https://join.slack.com/t/w1614659986-7xj229671/shared_invite/zt-n3cxmu37-fftbMTur7t31AX724AA99g
+
 # 개인별 캐글 발표내용(*)
 https://docs.google.com/spreadsheets/d/1vYmuk1hSTZ9j_y1AZEtA4EcAzU6ysljLmdXWZv_4xgI/edit?usp=sharing
 
