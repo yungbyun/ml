@@ -5,6 +5,9 @@
 
 ## 캐글(kaggle.com)
 > * 가입 및 둘러보기 (Slack 01주차_2 채널 참고)
+ 
+## 동영상 강의용 캐글 코드
+> * (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474
 
 ## 캐글 코드 다운받아 실행해보기
 > * 캐글 홈페이지를 방문하여 Iris 검색해보자. 그리고 아래의 검색되는 코드를 다운받은 후(Copy and Edit) 실행해보자!
@@ -13,7 +16,7 @@
 > ### 데이터 놀이2 (3월 23일까지)
 > * https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow
 > ### 데이터 놀이3 (3월 30일까지)
-> * https://www.kaggle.com/lavajiit/deep-learning-iris-dataset-keras
+> * https://www.kaggle.com/akashsri99/deep-learning-iris-dataset-keras
 
 ## 가장 간단한 코드(케라스)
 ```csharp
