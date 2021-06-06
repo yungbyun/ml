@@ -1,7 +1,7 @@
 # 머신러닝(Machine Learning)
 
 ## 온라인 강의실(Slack)
-> * https://join.slack.com/t/w1614659986-7xj229671/shared_invite/zt-n3cxmu37-fftbMTur7t31AX724AA99g
+> * https://app.slack.com/client/T01PZK4QUCC/C01T19LCWMC/details/top
 
 ## 캐글(kaggle.com)
 > * 가입 및 둘러보기 (Slack 01주차_2 채널 참고)
