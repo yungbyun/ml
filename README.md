@@ -1,8 +1,8 @@
 # 머신러닝(Machine Learning)
 
-## 캐글(kaggle.com)
-> * 가입 및 둘러보기 
- 
+## 강의에 사용된 코드
+> * https://github.com/yungbyun/myml
+
 ## 동영상 강의용 캐글 코드
 > * (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474
 
