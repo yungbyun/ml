@@ -5,7 +5,7 @@
 > * (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474
 
 ## 참고용 캐글 코드
-> * 캐글 홈페이지를 방문하여 Iris 검색해보자. 그리고 아래의 검색되는 코드를 다운받은 후(Copy and Edit) 실행해보자!
+> 캐글 홈페이지를 방문하여 Iris 검색해보자. 그리고 아래의 검색되는 코드를 다운받은 후(Copy and Edit) 실행해보세요.
 > ### 데이터 놀이1 
 > * https://www.kaggle.com/ash316/ml-from-scratch-with-iris 
 > ### 데이터 놀이2 
