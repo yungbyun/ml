@@ -1,7 +1,8 @@
 # 머신러닝(Machine Learning)
-
+```
 ## 온라인 강의실(Slack)
 > * https://app.slack.com/client/T01PZK4QUCC/C01T19LCWMC/details/top
+```
 
 ## 캐글(kaggle.com)
 > * 가입 및 둘러보기 (Slack 01주차_2 채널 참고)
