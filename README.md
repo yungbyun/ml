@@ -1,11 +1,7 @@
 # 머신러닝(Machine Learning)
-```
-## 온라인 강의실(Slack)
-> * https://app.slack.com/client/T01PZK4QUCC/C01T19LCWMC/details/top
-```
 
 ## 캐글(kaggle.com)
-> * 가입 및 둘러보기 (Slack 01주차_2 채널 참고)
+> * 가입 및 둘러보기 
  
 ## 동영상 강의용 캐글 코드
 > * (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474
