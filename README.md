@@ -1,7 +1,7 @@
 # 머신러닝(Machine Learning)
 
 ## 강의에 사용된 코드
-> * https://github.com/yungbyun/myml
+> * (실습코드) https://github.com/yungbyun/myml
 > * (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474
 
 ## 참고용 캐글 코드
@@ -32,19 +32,5 @@ gildong.fit(x_data, y_data, epochs = 200)
 
 answer = gildong.predict(x_data)
 print('Predicted:', answer)
-```
-# Kaggle.com에서 코드를 실행하려면
-
-* Sample codes: https://github.com/yungbyun/myml
-
-```
-import tensorflow as tf
-```
-
-> 위의 코드를 아래의 코드로 바꾸세요.
-
-```
-import tensorflow.compat.v1 as tf
-tf.disable_v2_behavior()
 ```
 
