@@ -1,7 +1,7 @@
 # 머신러닝(Machine Learning)
 
-## 강의에 사용된 코드
-> * (실습코드) https://github.com/yungbyun/myml -> 구글 코랩에서 실행하세요.
+## 실습 코드
+> * (뉴런과 신경망 학습 코드) https://github.com/yungbyun/myml -> 구글 코랩에서 실행하세요.
 > * (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474 -> 캐글에서 바로 실행하세요.
 
 ## 참고용 캐글 코드
