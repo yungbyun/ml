@@ -1,8 +1,11 @@
 # 머신러닝(Machine Learning)
 
-## 실습 코드
+## 딥러닝 실습코드
 > * (뉴런과 신경망 학습 코드) https://github.com/yungbyun/myml -> 구글 코랩에서 실행하세요.
+
+## 머신러닝 실습코드
 > * (성별 인식 코드) https://www.kaggle.com/yungbyun/female-male-classification-ml-simple/edit/run/30600474 -> 캐글에서 바로 실행하세요.
+> * (식물생장) https://www.kaggle.com/code/yungbyun/plant-diary-original-simple -> 캐글에서 바로 실행하세요.
 
 ## 참고용 캐글 실습 코드
 > 캐글 홈페이지를 방문하여 Iris 검색해보자. 그리고 아래의 검색되는 코드를 다운받은 후(Copy and Edit) 실행해보세요.
