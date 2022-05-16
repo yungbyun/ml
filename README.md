@@ -40,4 +40,24 @@ gildong.fit(x_data, y_data, epochs = 200)
 answer = gildong.predict(x_data)
 print('Predicted:', answer)
 ```
+## 강의 동영상 리스트 (예습복습 필수!)
+* 논리회귀1: https://youtu.be/vztm69wYlhs
+* 논리회귀2, https://youtu.be/gmEOiuB-TKM
+* 논리회귀3, https://youtu.be/greSudDm4Gc
+* 논리회귀4, https://youtu.be/z777NFDLNkQ
+* 논리회귀5, https://youtu.be/Tu9iyy4RaVo
+* 논리회귀6, https://youtu.be/Rl5bia3ts1U
+* 논리회귀7, https://youtu.be/LI6whxHBNT4
+* 논리회귀8, https://youtu.be/hqkNSTwrK9M
+* 논리회귀9, https://youtu.be/lhUFXIGhPEs
+* 논리회귀10, https://youtu.be/p6lLyh0G8RQ
+* 논리회귀11, https://youtu.be/IKpSvmsaDew
+* 논리회귀12, https://youtu.be/85hMwhKDSw4
+* 논리회귀13, https://youtu.be/2sAg8ze7K_U
+* 논리회귀14, https://youtu.be/GT9s4_f22TU
+* 논리회귀15, https://youtu.be/JGAjfgAGFkQ
+* 딥러닝1, https://youtu.be/4rjma0B5Z3A
+* 딥러닝2, https://youtu.be/PVqInsNHgJM
+* 딥러닝3, https://youtu.be/QhM9IOHJRwc
+* 딥러닝4, https://youtu.be/t6HumFBBQ74
 
