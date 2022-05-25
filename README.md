@@ -1,5 +1,8 @@
 # 머신러닝(Machine Learning)
 
+## 개인별 과제 정보 입력(Kaggle 코드 분석)
+> * https://docs.google.com/spreadsheets/d/1M9Cpa5NUPAiE_zguK2h00ProBXy1s83yginCL4d7NUo/edit?usp=sharing
+
 ## 퀴즈(평가반영) 참여자
 > * 04월 12일: 정답 오버슈팅(발산), 김진웅, 김경범, 안상민, 김희범, 전찬혁, 김승현, 권영기, 정승원 (제출순서) 
 > * 05월 04일: 시그모이드 함수에 대하여: 허승범, 권영기, 정승원, 변세민, 백예림, 김승헌 
