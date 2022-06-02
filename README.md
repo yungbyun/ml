@@ -1,6 +1,6 @@
 # 머신러닝(Machine Learning)
 
-## 개인별 과제 정보 입력(Kaggle 코드 분석)
+## Kaggle 개인별 과제 정보 입력(결정트리와 같은 일반 머신러닝 모델이 아닌 딥러닝 모델 코드 분석)
 > * https://docs.google.com/spreadsheets/d/1M9Cpa5NUPAiE_zguK2h00ProBXy1s83yginCL4d7NUo/edit?usp=sharing
 > * 제출일자: 6월 23일
 > * 제출형식: 발표자료 형식(PPT) 또는 보고서 형식(HWP, WORD)
