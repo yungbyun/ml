@@ -2,7 +2,7 @@
 
 ## Kaggle 과제 정보 입력(결정트리와 같은 일반 머신러닝 모델이 아닌 신경망을 이용한 딥러닝 모델 코드 분석)
 > * https://docs.google.com/spreadsheets/d/1M9Cpa5NUPAiE_zguK2h00ProBXy1s83yginCL4d7NUo/edit?usp=sharing
-> * 제출일자: 6월 23일
+> * 제출일자: 6월 23일 (yungcheolbyun@gmail.com으로 제출)
 > * 제출형식: 발표자료 형식(PPT): 데이터 및 시각화, 데이터 전처리, 딥러닝 모델, 학습 및 테스트 결과, 결론 등
 
 ## 퀴즈(평가반영) 참여자
