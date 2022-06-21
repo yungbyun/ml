@@ -1,5 +1,7 @@
 # 머신러닝(Machine Learning)
 
+> * 바울랩 공지방(카카오 오픈 단톡방) 링크: https://open.kakao.com/o/gKG3e0sb
+
 ## Kaggle 과제 정보 입력(결정트리와 같은 일반 머신러닝 모델이 아닌 신경망을 이용한 딥러닝 모델 코드 분석)
 > * https://docs.google.com/spreadsheets/d/1M9Cpa5NUPAiE_zguK2h00ProBXy1s83yginCL4d7NUo/edit?usp=sharing
 > * 제출일자: 6월 23일 (yungcheolbyun@gmail.com으로 제출)
