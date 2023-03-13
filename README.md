@@ -1,8 +1,8 @@
 ## 중기청 장학금 및 취업지원사업 
 > * https://github.com/JNUAca/go
 
-## 머신러닝(Machine Learning)
-> * 바울랩 공지방(카카오 오픈 단톡방) 링크: https://open.kakao.com/o/gKG3e0sb
+## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방
+> * https://open.kakao.com/o/gKG3e0sb
 
 ## Kaggle 과제 정보 입력(결정트리와 같은 일반 머신러닝 모델이 아닌 신경망을 이용한 딥러닝 모델 코드 분석)
 > * https://docs.google.com/spreadsheets/d/18InS788sBL-napveBnIvh65Rf9GGpslL5rncM98bCm0/edit#gid=0
