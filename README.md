@@ -46,6 +46,10 @@ answer = gildong.predict(x_data)
 print('Predicted:', answer)
 ```
 ## 강의 동영상 리스트 (예습복습 필수!)
+* 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
+* 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
+* 실습(식물생장예측): https://youtu.be/DZnpkKxeB-w
+ 
 * 논리회귀1: https://youtu.be/vztm69wYlhs
 * 논리회귀2, https://youtu.be/gmEOiuB-TKM
 * 논리회귀3, https://youtu.be/greSudDm4Gc
