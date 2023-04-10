@@ -26,24 +26,31 @@
 > * https://www.kaggle.com/akashsri99/deep-learning-iris-dataset-keras
 
 ## 가장 간단한 코드(케라스)
-```csharp
-from keras.models import Sequential
-from keras.layers import Dense
+```python
 
-x_data = [1]
-y_data = [1]
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.optimizers import Adam
 
+# 데이터
+X = [1, 2, 3]
+y = [1, 2, 3]
+
+# 1개의 신경세포
 gildong = Sequential()
+neuron = Dense(1, input_dim=1, activation='linear')
+gildong.add(neuron)
 
-l = Dense(1, activation='linear', input_dim=1)
-gildong.add(l)
+# 모델 컴파일
+gildong.compile(optimizer=Adam(learning_rate=0.02), loss='mse')
 
-gildong.compile(optimizer='rmsprop', loss='mean_squared_error', metrics=['accuracy'])
+# 학습
+gildong.fit(X, y, epochs=1000, verbose=0)
 
-gildong.fit(x_data, y_data, epochs = 200)
+# 예측/테스트
+answer = gildong.predict(X)
+print(f"Prediction: {answer}")
 
-answer = gildong.predict(x_data)
-print('Predicted:', answer)
 ```
 ## 강의 동영상 리스트 (예습복습 필수!)
 * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
