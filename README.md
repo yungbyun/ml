@@ -1,5 +1,5 @@
 ## 중기청 장학금 및 취업지원사업 
-> * https://github.com/JNUAca/go
+> * https://github.com/JNUAca/go (교과목 수정중이며, 곧 확정됩니다.)
 
 ## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방
 > * https://open.kakao.com/o/gKG3e0sb
