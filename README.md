@@ -1,5 +1,5 @@
-## 중기청 장학금 및 취업지원사업 
-> * https://github.com/JNUAca/go (교과목 수정중이며, 곧 확정됩니다.)
+## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 
+> * https://github.com/JNUAca/go (현재 교과목 리스트 업데이트 중이며, 곧 확정됩니다.)
 
 ## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방
 > * https://open.kakao.com/o/gKG3e0sb
