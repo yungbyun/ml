@@ -1,3 +1,6 @@
+## 3월 21일 특강 설문조사  
+>  https://forms.gle/QaBzWFCXs7MjgWQh7
+
 ## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 
 > * https://github.com/JNUAca/go (현재 교과목 리스트 업데이트 중이며, 곧 확정됩니다.)
 
