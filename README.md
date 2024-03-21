@@ -3,7 +3,7 @@
 
 ## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 (참여신청중! 선착순!)
 > * https://github.com/JNUAca/go
-> * 참여신청: https://docs.google.com/forms/d/e/1FAIpQLSfzsud_QBnRpRRvWaiA8oJ6aIJc7Zuh6rqG8Bh5AvZ0nI-M9w/viewform
+> * 참여신청: https://forms.gle/qnfsxRzCAfwAG4gi8
 
 ## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방
 > * https://open.kakao.com/o/gKG3e0sb
