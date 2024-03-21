@@ -1,8 +1,9 @@
 ## 3월 21일 특강 설문조사  
 >  https://forms.gle/QaBzWFCXs7MjgWQh7
 
-## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 
+## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업
 > * https://github.com/JNUAca/go (현재 교과목 리스트 업데이트 중이며, 곧 확정됩니다.)
+> * 참여신청: https://docs.google.com/forms/d/e/1FAIpQLSfzsud_QBnRpRRvWaiA8oJ6aIJc7Zuh6rqG8Bh5AvZ0nI-M9w/viewform
 
 ## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방
 > * https://open.kakao.com/o/gKG3e0sb
