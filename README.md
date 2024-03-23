@@ -1,5 +1,9 @@
-## 중기청 장학금 및 취업지원사업 
+## 3월 21일 특강(항공우주, 모빌리티, 보안 등)  설문조사  
+>  https://forms.gle/QaBzWFCXs7MjgWQh7
+
+## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 (참여신청중! 선착순!)
 > * https://github.com/JNUAca/go
+> * 참여신청: https://forms.gle/qnfsxRzCAfwAG4gi8
 
 ## 취업 및 행사정보: 바울랩 카카오 오픈 단톡방
 > * https://open.kakao.com/o/gKG3e0sb
@@ -26,24 +30,31 @@
 > * https://www.kaggle.com/akashsri99/deep-learning-iris-dataset-keras
 
 ## 가장 간단한 코드(케라스)
-```csharp
-from keras.models import Sequential
-from keras.layers import Dense
+```python
 
-x_data = [1]
-y_data = [1]
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.optimizers import Adam
 
+# 데이터
+X = [1, 2, 3]
+y = [1, 2, 3]
+
+# 1개의 신경세포
 gildong = Sequential()
+neuron = Dense(1, input_dim=1, activation='linear')
+gildong.add(neuron)
 
-l = Dense(1, activation='linear', input_dim=1)
-gildong.add(l)
+# 모델 컴파일
+gildong.compile(optimizer=Adam(learning_rate=0.02), loss='mse')
 
-gildong.compile(optimizer='rmsprop', loss='mean_squared_error', metrics=['accuracy'])
+# 학습
+gildong.fit(X, y, epochs=1000, verbose=0)
 
-gildong.fit(x_data, y_data, epochs = 200)
+# 예측/테스트
+answer = gildong.predict(X)
+print(f"Prediction: {answer}")
 
-answer = gildong.predict(x_data)
-print('Predicted:', answer)
 ```
 ## 강의 동영상 리스트 (예습복습 필수!)
 * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
