@@ -4,8 +4,6 @@ import pandas as pd # 데이터 처리를 위한 모듈
 import seaborn as sns # 데이터 시각화 모듈
 import matplotlib.pyplot as plt # 데이터 시각화 모듈
 
-
-
 # 데이터를 불러와서 분석하기 위해 pandas 모듈을 사용한다. <br/>
 
 # 1. 데이터 불러오고 정보 표시
