@@ -80,3 +80,15 @@ print(f"Prediction: {answer}")
 * 딥러닝2, https://youtu.be/PVqInsNHgJM
 * 딥러닝3, https://youtu.be/QhM9IOHJRwc
 * 딥러닝4, https://youtu.be/t6HumFBBQ74
+
+## 비주얼 스튜디오 코드 설치 및 간단 사용법
+> * https://www.youtube.com/watch?v=K8qVH8V0VvY&t=331s
+
+## 비주얼 스튜디오 코드를 이용한 버전관리 (git 사용법)
+> * [Visual Studio Code에서 Git으로 협업하기1](https://www.youtube.com/watch?v=vI8FFvQge2w)
+> * [Visual Studio Code에서 Git으로 협업하기2](https://www.youtube.com/watch?v=m1Q9dXuD-O0)
+> * [Visual Studio Code에서 Git으로 협업하기3](https://www.youtube.com/watch?v=srN5UchM26A&t=27s)
+> * [Visual Studio Code에서 Git으로 협업하기4](https://www.youtube.com/watch?v=GfUj_ZvRppg&t=20s)
+> * [Visual Studio Code에서 Git으로 협업하기5](https://www.youtube.com/watch?v=AEhPmgDdzYg&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=5)
+> * [Visual Studio Code에서 Git으로 협업하기6](https://www.youtube.com/watch?v=P-UNibp1FHg&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=6)
+> * [Visual Studio Code에서 Git으로 협업하기7](https://www.youtube.com/watch?v=yc0rxkt93MQ&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=7)
