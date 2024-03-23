@@ -69,4 +69,3 @@ print('Predicted:', answer)
 * 딥러닝2, https://youtu.be/PVqInsNHgJM
 * 딥러닝3, https://youtu.be/QhM9IOHJRwc
 * 딥러닝4, https://youtu.be/t6HumFBBQ74
-
