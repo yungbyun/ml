@@ -1,3 +1,6 @@
+## 제주RIS 지능형서비스 사업단 프로그램(홍보)
+> https://www.youtube.com/watch?v=5ny7G_39hbQ&t=22s
+
 ## 3월 21일 특강(항공우주, 모빌리티, 보안 등)  설문조사  
 >  https://forms.gle/QaBzWFCXs7MjgWQh7
 
