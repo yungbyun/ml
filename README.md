@@ -59,6 +59,10 @@ answer = gildong.predict(X)
 print(f"Prediction: {answer}")
 
 ```
+
+## CNN
+* https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide
+  
 ## 강의 동영상 리스트 (예습복습 필수!)
 * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
 * 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
