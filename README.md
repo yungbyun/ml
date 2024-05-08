@@ -1,9 +1,6 @@
 ## 제주RIS 지능형서비스 사업단 프로그램(홍보)
 > https://www.youtube.com/watch?v=5ny7G_39hbQ&t=22s
 
-## 3월 21일 특강(항공우주, 모빌리티, 보안 등)  설문조사  
->  https://forms.gle/QaBzWFCXs7MjgWQh7
-
 ## (4학년) 중기청 200만원 장학금 지원 및 취업지원사업 (참여신청중! 선착순!)
 > * https://github.com/JNUAca/go
 > * 참여신청: https://forms.gle/qnfsxRzCAfwAG4gi8
