@@ -63,6 +63,11 @@ print(f"Prediction: {answer}")
 * https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide
   
 ## 강의 동영상 리스트 (예습복습 필수!)
+* AI 어떻게, https://youtu.be/o7cCMdxlUro
+* 신경세포와 학습, 그리고 머신러닝, https://youtu.be/o7cCMdxlUro
+
+
+* ---------------
 * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
 * 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
 * 실습(식물생장예측): https://youtu.be/DZnpkKxeB-w
