@@ -63,9 +63,13 @@ print(f"Prediction: {answer}")
 * https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide
   
 ## 강의 동영상 리스트 (예습복습 필수!)
-* [AI 어떻게](https://youtu.be/o7cCMdxlUro) - new!
-* [신경세포와 학습, 그리고 머신러닝](https://youtu.be/rZXRwe7PJLw) - new!
-* [선형회귀1](https://youtu.be/tLxfu30uKPM) - new!
+* [02.인공지능 어떻게](https://youtu.be/o7cCMdxlUro) - new!
+* [03.신경세포와 학습, 그리고 머신러닝](https://youtu.be/rZXRwe7PJLw) - new!
+* [04.선형회귀(1)-오류 그래프와 기울기, 그리고 경사하강1](https://youtu.be/tLxfu30uKPM) - new!
+* [04.선형회귀(1)-오류 그래프와 기울기, 그리고 경사하강2](https://youtu.be/0r90OhmV1OQ) - new!
+* [04.선형회귀(2)-오류 계산 그래프에서의 역전파1](https://youtu.be/AvahvaIMG7I) - new!
+* [04.선형회귀(2)-오류 계산 그래프에서의 역전파2](https://youtu.be/NO2ZpzsVLbM) - new!
+* [05.로지스틱 회귀와 분류(1)-결정경계1](https://youtu.be/M7WUdz7Ta-k) - new! 
 
 
 
