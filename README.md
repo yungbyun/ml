@@ -72,7 +72,9 @@ print(f"Prediction: {answer}")
 * [05.로지스틱 회귀와 분류(1)-결정경계1](https://youtu.be/IDO7w5F4Jmc) - new! 
 * [05.로지스틱 회귀와 분류(1)-결정경계2](https://youtu.be/Xo0DqYgxaHc) - new!
 * [05.로지스틱 회귀와 분류(2)-여러 결정경계1](https://youtu.be/xH13mjR6UAY) - new!
-
+* [05.로지스틱 회귀와 분류(2)-여러 결정경계](https://youtu.be/4ggUZIswICQ) - new!
+* [05.로지스틱 회귀와 분류(3)-다층신경망과 비선형 결정경계](https://youtu.be/xiBgbEvaqIE) - new!
+* 
 * ---------------
 * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
 * 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
