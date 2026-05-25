@@ -74,6 +74,11 @@ print(f"Prediction: {answer}")
 * [05.로지스틱 회귀와 분류(2)-여러 결정경계1](https://youtu.be/xH13mjR6UAY) - new!
 * [05.로지스틱 회귀와 분류(2)-여러 결정경계](https://youtu.be/4ggUZIswICQ) - new!
 * [05.로지스틱 회귀와 분류(3)-다층신경망과 비선형 결정경계](https://youtu.be/xiBgbEvaqIE) - new!
+* [05.로지스틱 회귀와 분류(3)-다층신경망과 비선형 결정경계](https://youtu.be/DkPu-_kAZyk) - new! (뒷 부분 추가 버전)
+* [06.딥러닝(1)](https://youtu.be/1smT9H2wObc) - new!
+* [06.딥러닝(2)](https://youtu.be/Fx0vlbsXeHE) - new!
+* [07.CNN(1)](https://youtu.be/adwNBaELIhU) - new!
+* [07.CNN(2)](https://youtu.be/DsxCtdrCeJs) - new! 
 * 
 * ---------------
 * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
