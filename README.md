@@ -78,7 +78,8 @@ print(f"Prediction: {answer}")
 * [06.딥러닝(1)](https://youtu.be/1smT9H2wObc) - new!
 * [06.딥러닝(2)](https://youtu.be/Fx0vlbsXeHE) - new!
 * [07.CNN(1)](https://youtu.be/adwNBaELIhU) - new!
-* [07.CNN(2)](https://youtu.be/DsxCtdrCeJs) - new! 
+* [07.CNN(2)](https://youtu.be/DsxCtdrCeJs) - new!
+* 0[7.CNN(3)](https://youtu.be/pgtXMAKwhFU) - new!
 * 
 * ---------------
 * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA 
